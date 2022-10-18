@@ -1,4 +1,4 @@
-# open-textfile-in-pyton
+# open-textfile-in-python
 
 step 1:
  You should create a textfile
@@ -11,3 +11,5 @@ step 1:
  ---
  step 4:
  run it
+
+----
